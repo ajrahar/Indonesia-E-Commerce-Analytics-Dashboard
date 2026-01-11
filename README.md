@@ -92,7 +92,7 @@ Aplikasi dashboard interaktif berbasis **Streamlit** untuk menganalisis data e-c
 
 1. **Clone atau download repository ini**
 ```bash
-cd /Users/miftahul/Projects/Python/StreamLit/IECSS
+cd your_project_directory
 ```
 
 2. **Install dependencies**
